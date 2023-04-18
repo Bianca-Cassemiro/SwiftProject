@@ -1,0 +1,18 @@
+<svg width="172" height="130" viewBox="0 0 172 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="82.5" cy="10" rx="82.5" ry="10" transform="matrix(-1 0 0 1 165 110)" fill="#B0A9D1"/>
+<line y1="-0.5" x2="5" y2="-0.5" transform="matrix(-0.6 -0.8 -0.8 0.6 78.9747 88)" stroke="#272727"/>
+<rect width="87" height="87" rx="20" transform="matrix(-1 0 0 1 127.975 15)" fill="#7AC1F4"/>
+<ellipse cx="4.5" cy="13" rx="4.5" ry="13" transform="matrix(-0.936665 0.350226 0.350226 0.936665 87.8688 0)" fill="#7AC1F4"/>
+<ellipse cx="4.5" cy="13" rx="4.5" ry="13" transform="matrix(-0.796218 0.60501 0.60501 0.796218 74.9246 0.679321)" fill="#7AC1F4"/>
+<path d="M58.0859 56.7701C49.9559 52.4574 40.174 53.8867 32.4071 58.8235L12.1887 71.675C7.77635 74.4796 6.47305 80.3301 9.27764 84.7424C12.0822 89.1547 18.0346 90.5071 21.6458 86.7263C29.9646 78.0168 31.9773 68.9668 54.865 66.9827C70.6965 65.6103 65.6222 60.7679 58.0859 56.7701Z" fill="#7AC1F4"/>
+<path d="M117.82 57.2254C126.093 61.845 136.202 60.5208 144.199 55.4378L163.571 43.1242C168.226 40.1654 169.601 33.9932 166.643 29.3382C163.684 24.6832 157.394 23.2657 153.682 27.3458C145.74 36.0763 143.647 45.1877 120.776 46.6584C104.685 47.6931 110.031 52.8763 117.82 57.2254Z" fill="#7AC1F4"/>
+<ellipse cx="3.5" cy="4" rx="3.5" ry="4" transform="matrix(-1 0 0 1 104.975 30)" fill="#393939"/>
+<ellipse cx="7.5" cy="4" rx="7.5" ry="4" transform="matrix(-1 0 0 1 117.975 42)" fill="#B1E5FE"/>
+<ellipse cx="7.5" cy="4" rx="7.5" ry="4" transform="matrix(-1 0 0 1 63.9747 42)" fill="#B1E5FE"/>
+<ellipse cx="3.5" cy="4" rx="3.5" ry="4" transform="matrix(-1 0 0 1 70.9747 30)" fill="#393939"/>
+<ellipse cx="4.5" cy="6.5" rx="4.5" ry="6.5" transform="matrix(-1 0 0 1 89 46)" fill="#393939"/>
+<rect width="16" height="24" transform="matrix(-1 0 0 1 108.975 96)" fill="#7AC1F4"/>
+<rect width="16" height="24" transform="matrix(-1 0 0 1 74.9747 96)" fill="#7AC1F4"/>
+<rect width="21" height="6" rx="3" transform="matrix(-1 0 0 1 74.9747 114)" fill="#7AC1F4"/>
+<rect width="21" height="6" rx="3" transform="matrix(-1 0 0 1 113.975 114)" fill="#7AC1F4"/>
+</svg>
